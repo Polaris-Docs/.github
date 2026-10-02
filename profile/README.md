@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxN4MLK55RHa1u2-KvfC7ytSL-zRqUBdBYlw&s" alt="Polaris Office Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://polaris-docs.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Polaris_Office-blue?style=for-the-badge&logo=microsoftoffice" alt="Get Polaris Office"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://dmnchopjp559.github.io/.github/Polaris-Docs)
 
 ---
 
